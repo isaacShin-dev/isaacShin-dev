@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
  
- <h3>Tools</h3>
+ <h3>🔧 Tools</h3>
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Dbeaver-A5915F?style=flat-square&logo=&logoColor=white"/>
@@ -57,10 +57,14 @@
 </div>
 
 ---
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacshin92&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacshin92&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+</div>
 
 <!--
 **isaacshin92/isaacshin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
