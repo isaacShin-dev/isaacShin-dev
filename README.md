@@ -1,10 +1,25 @@
-### Hi there 👋
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisaacshin92&count_bg=%234182C6&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+<div align="center">
+ <h2>Hello ! I'm Isaac Giwook Shin 😎</h2>
+
+</div>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79408992/154497871-bd4dacf4-2dba-4cbc-8d60-bc3e6ddb3f45.gif"height="280px"/></div>
+ <div align="center">
 <a href ="https://www.instagram.com/isaacshin92/" target="_blank">
 <img src="https://img.shields.io/badge/isaacshin92-006272?style=flat-square&logo=Instagram&logoColor=white" />
  </a>
  <a href ="https://www.instagram.com/isaacshin92/" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacshin92@gmail.com" />
 </a>
+  
+ </div>
+
 
 ### ⚡ Skills 
 
@@ -21,12 +36,7 @@ Platforms && Languages
 <img src="https://img.shields.io/badge/Spring Security Boot-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
- 🔭 I’m currently working on ...
-
-
-- 🌱 I’m currently learning ...
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacshin92&show_icons=true&theme=swift)
 
 
 <!--
