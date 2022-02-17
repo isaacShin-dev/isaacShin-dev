@@ -36,7 +36,7 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security Boot-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
  
@@ -45,15 +45,15 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Dbeaver-A5915F?style=flat-square&logo=&logoColor=white"/>
  <img src="https://img.shields.io/badge/SqlDeveloper-EA7100?style=flat-square&logo=&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white"/>
 </div>
 
  <div align="center">
 <h3>💪 Cowork Tools</3> 
  </div>
  <div align="center">
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-36566F?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
 ---
@@ -65,6 +65,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 </div>
+
+---
 
 <!--
 **isaacshin92/isaacshin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
