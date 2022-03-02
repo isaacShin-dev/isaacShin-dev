@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacshin92@gmail.com" />
 </a>
  
+ <a>
   <a href ="https://isaacshin.notion.site/3078531c02f44c1ea78b4b1a383aa1cf" target="_blank">
 <img src="https://img.shields.io/badge/Resume-161A3B?style=flat-square&logo=About.me&logoColor=white"/>
 </a>
