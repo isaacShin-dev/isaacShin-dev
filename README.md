@@ -14,7 +14,7 @@
 <a href ="https://www.instagram.com/isaacshin92/" target="_blank">
 <img src="https://img.shields.io/badge/isaacshin92-006272?style=flat-square&logo=Instagram&logoColor=white" />
  </a>
- <a href ="https://www.instagram.com/isaacshin92/" target="_blank"></a>
+ <a href ="https://www.instagram.com/isaacshin92/" target="_blank"></a
  <a>
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacshin92@gmail.com" />
 </a>
@@ -38,8 +38,8 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Json-black?style=flat-square&logo=Json&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON Web Tokens-3A3A42?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
-
+<!-- <img src="https://img.shields.io/badge/JSON Web Tokens-3A3A42?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
+ -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/> -->
