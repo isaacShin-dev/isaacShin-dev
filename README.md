@@ -11,9 +11,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/79408992/154497871-bd4dacf4-2dba-4cbc-8d60-bc3e6ddb3f45.gif"height="280px"/></div>
  <div align="center">
-<a href ="https://www.instagram.com/isaacshin92/" target="_blank">
+<!--<a href ="https://www.instagram.com/isaacshin92/" target="_blank"> 
 <img src="https://img.shields.io/badge/isaacshin92-006272?style=flat-square&logo=Instagram&logoColor=white" />
- </a>
+ </a> -->
  <!--<a href ="https://www.instagram.com/isaacshin92/" target="_blank"></a -->
  <a href ="#" target="_blank"></a 
  <a>
