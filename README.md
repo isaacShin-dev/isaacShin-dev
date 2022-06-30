@@ -14,7 +14,8 @@
 <a href ="https://www.instagram.com/isaacshin92/" target="_blank">
 <img src="https://img.shields.io/badge/isaacshin92-006272?style=flat-square&logo=Instagram&logoColor=white" />
  </a>
- <a href ="https://www.instagram.com/isaacshin92/" target="_blank"></a
+ <!--<a href ="https://www.instagram.com/isaacshin92/" target="_blank"></a -->
+ <a href ="#" target="_blank"></a 
  <a>
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacshin92@gmail.com" />
 </a>
