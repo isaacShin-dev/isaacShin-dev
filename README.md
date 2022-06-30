@@ -20,7 +20,8 @@
 </a>
  
  <a>
-  <a href ="https://isaacshin.notion.site/3078531c02f44c1ea78b4b1a383aa1cf" target="_blank">
+<!--  <a href ="https://isaacshin.notion.site/3078531c02f44c1ea78b4b1a383aa1cf" target="_blank"> -->
+  <a href ="#" target="_blank">
 <img src="https://img.shields.io/badge/Resume-161A3B?style=flat-square&logo=About.me&logoColor=white"/>
 </a>
   
