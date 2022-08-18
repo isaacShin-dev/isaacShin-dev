@@ -52,9 +52,11 @@
 <img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldnr335)](https://solved.ac/rldnr335)
+
+
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldnr335)](https://solved.ac/rldnr335)
 
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacshin92&show_icons=true&theme=swift" />
