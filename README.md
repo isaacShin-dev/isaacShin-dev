@@ -51,9 +51,9 @@
 <img src="https://img.shields.io/badge/GitHub-36566F?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldnr335)](https://solved.ac/rldnr335)
-
+</div>
 
 ---
 
