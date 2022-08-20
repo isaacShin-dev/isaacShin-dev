@@ -54,7 +54,7 @@
 </br>
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldnr335)](https://solved.ac/rldnr335)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldnr335)](https://solved.ac/rldnr335) -->
 </div>
 ---
 
